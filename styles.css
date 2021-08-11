@@ -1,6 +1,7 @@
 body{
   margin: 0;
   width: 100%;
+  background-color: lightblue;
 }
 h1{
   text-align:center;
@@ -76,8 +77,10 @@ table{
   padding-top: 70px;
   padding-bottom: 70px;
   margin-top: 0;
-  position:fixed;
   bottom:0;
+  position:fixed;
+  width:100%;
+  
 }
 .input-wrapper{
   margin-left: auto;
