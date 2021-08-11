@@ -84,6 +84,18 @@ padding-right: 15px;
   bottom:0;
   
 }
+.contact-footer{
+  background-color: black;
+  text-align: center;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 70px;
+  padding-bottom: 70px;
+  margin-top: 0;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
 .input-wrapper{
   margin-left: auto;
   margin-right: auto;
