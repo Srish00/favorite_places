@@ -1,0 +1,118 @@
+body{
+  margin: 0;
+  width: 100%;
+}
+h1{
+  text-align:center;
+}
+#top-bar {
+  background-color: #3250a8;
+  padding: 25px;
+  text-align: center;
+  position:sticky;
+  top: 0;
+}
+.nav-item{
+  margin-right: 25px;
+  color: white;
+}
+#section1{
+  margin-left: auto;
+  margin-right: auto;
+}
+#section2{
+  background-color:lightblue;
+   text-align: center;
+    width: 100%;
+    padding-bottom: 15px;
+    padding-top: 15px;
+}
+.heading{
+  margin-top: 0;
+   padding: 16px;
+   font-size: 32px;
+   font-family:sans-serif;
+}
+table{
+  margin-left: auto;
+  margin-right: auto;
+         padding: 15px;
+}
+.place-name{
+  text-decoration: none;
+  font-size: 24px;
+
+}
+.image-wrapper{
+  background-color: white;
+  padding-bottom: 5px;
+  margin: 15px 15px;
+}
+.place-description{
+  text-align: left;
+  font-family: serif;
+  line-height: 1.5;
+  margin: 30px 110px;
+}
+.about-description{
+  text-align: left;
+  font-family: monospace;
+  line-height: 1.7;
+  font-size: 18px;
+  padding-left: 120px;
+  padding-right: 120px;
+
+}
+.about{
+  background-color: lightblue;
+  margin-top: 0;
+  padding: 20px;
+}
+.footer{
+  background-color: black;
+  text-align: center;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 70px;
+  padding-bottom: 70px;
+  margin-top: 0;
+}
+.input-wrapper{
+  margin-left: auto;
+  margin-right: auto;
+
+}
+form {
+border: 1px solid #ccc;
+background-color: white;
+width: 600px;
+margin-left:auto;
+margin-right: auto;
+text-align: center;
+padding: 40px;
+}
+.contact-wrapper{
+  background-color: lightblue;
+  margin-top: 0;
+  padding: 50px;
+}
+.input-item{
+  width: 100%;
+  font-size:18px;
+padding-bottom:12px;
+margin-bottom: 36px;
+border-top:0;
+border-left:0;
+border-right:0;
+border-bottom:1px solid #ccc;
+}
+.btn{
+  background-color: #0056ff;
+      padding-top: 12px;
+      padding-bottom:12px;
+      padding-left:24px;
+      padding-right:24px;
+      font-size:18px;
+      color:white;
+      border:none;
+}
